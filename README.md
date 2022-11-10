@@ -1,6 +1,30 @@
+
+<!-- vim-markdown-toc GFM -->
+
+* [SingularisArt prompt](#singularisart-prompt)
+  * [Installation](#installation)
+  * [Features](#features)
+
+<!-- vim-markdown-toc -->
+
 # SingularisArt prompt
 
 ![main](images/1.png)
+
+## Installation
+
+Put the following your .zshrc file:
+
+```zsh
+typeset -A __Prompt
+
+__Prompt[ITALIC_ON]=$'\e[3m'
+__Prompt[ITALIC_OFF]=$'\e[23m'
+
+zapplug "zap-zsh/singularisart-prompt"
+```
+
+## Features
 
 Visible here are:
 
