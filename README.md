@@ -49,43 +49,43 @@ Visible here are:
 Nested shells are indicated with additional prompt characters. For example, one
 nested shell:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/2.png">
+<img src="images/2.png">
 
 Two nested shells:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/3.png">
+<img src="images/3.png">
 
 Root shells are indicated with a different color prompt character and the word
 "root":
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/4.png">
+<img src="images/4.png">
 
 Nesting within a root shell is indicated like this:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/5.png">
+<img src="images/5.png">
 
 Two nested shells:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/6.png">
+<img src="images/6.png">
 
 Tmux shells are indicated with a different color prompt character and the word
 "tmux":
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/7.png">
+<img src="images/7.png">
 
 Nesting within a tmux shell is indicated like this:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/8.png">
+<img src="images/8.png">
 
 Two nested shells:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/9.png">
+<img src="images/9.png">
 
 If the last command exited with a non-zero status (usually indicative of an
 error), a yellow exclamation is shown:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/10.png">
+<img src="images/10.png">
 
 If there are background processes, a yellow asterisk is shown:
 
-<img src="https://raw.githubusercontent.com/zap-zsh/singularisart-prompt/master/images/11.png">
+<img src="images/11.png">
