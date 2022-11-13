@@ -21,7 +21,7 @@ typeset -A __Prompt
 __Prompt[ITALIC_ON]=$'\e[3m'
 __Prompt[ITALIC_OFF]=$'\e[23m'
 
-zapplug "zap-zsh/singularisart-prompt"
+plug "zap-zsh/singularisart-prompt"
 ```
 
 ## Features
