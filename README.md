@@ -4,6 +4,7 @@
 * [SingularisArt prompt](#singularisart-prompt)
   * [Installation](#installation)
   * [Features](#features)
+* [Credit](#credit)
 
 <!-- vim-markdown-toc -->
 
@@ -89,3 +90,7 @@ error), a yellow exclamation is shown:
 If there are background processes, a yellow asterisk is shown:
 
 <img src="images/11.png">
+
+# Credit
+
+I kinda just took the base template from [wincent](https://github.com/wincent/wincent), and tweaked it according to my own liking.
